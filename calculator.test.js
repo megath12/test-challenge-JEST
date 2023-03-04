@@ -1,5 +1,5 @@
 
-const {substract, multiply, divide, power} = require('./calculator')
+const {sum,substract, multiply, divide, power} = require('./calculator')
 
 test('suma',()=>{
     expect(sum(3,7)).toBe(10)
