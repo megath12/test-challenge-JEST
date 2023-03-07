@@ -25,4 +25,7 @@ const users = [
     }
 ]
 
+//console.log(users[0].email)
+// sirious90@gmail.com
+
 module.exports = users;
